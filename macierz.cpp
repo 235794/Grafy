@@ -5,6 +5,8 @@
 #include <time.h>
 #include <math.h>
 
+// Na podstawie implementacji P.Porczynskiej
+
 using namespace std;
 
 // struktura opisujaca krawedzie
